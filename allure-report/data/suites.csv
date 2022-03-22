@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 14 15:45:47 IST 2022","Mon Mar 14 15:45:49 IST 2022","1850","Web Suite","WebCustomer Tests","sanity.XYZBankWeb","sanity.XYZBankWeb","test01_verifyAccount","Test01 - Verify Customer Accounts",""
+"passed","Mon Mar 14 15:46:14 IST 2022","Mon Mar 14 15:46:21 IST 2022","6852","Web Suite","WebCustomer Tests","sanity.XYZBankWeb","sanity.XYZBankWeb","test05_searchCustomer","Test05 - Search Customer",""
+"passed","Mon Mar 14 15:45:49 IST 2022","Mon Mar 14 15:45:51 IST 2022","1760","Web Suite","WebCustomer Tests","sanity.XYZBankWeb","sanity.XYZBankWeb","test02_verifyDeposit","Test02 - Verify Deposit Action",""
+"passed","Mon Mar 14 15:46:05 IST 2022","Mon Mar 14 15:46:14 IST 2022","8888","Web Suite","WebCustomer Tests","sanity.XYZBankWeb","sanity.XYZBankWeb","test05_searchCustomer","Test05 - Search Customer",""
+"passed","Mon Mar 14 15:45:51 IST 2022","Mon Mar 14 15:45:54 IST 2022","2425","Web Suite","WebCustomer Tests","sanity.XYZBankWeb","sanity.XYZBankWeb","test03_verifyFailMessage","test03 - Verify Withdrawal Transaction Failed",""
+"passed","Mon Mar 14 15:45:57 IST 2022","Mon Mar 14 15:46:05 IST 2022","8887","Web Suite","WebCustomer Tests","sanity.XYZBankWeb","sanity.XYZBankWeb","test05_searchCustomer","Test05 - Search Customer",""
+"passed","Mon Mar 14 15:45:54 IST 2022","Mon Mar 14 15:45:56 IST 2022","2295","Web Suite","WebCustomer Tests","sanity.XYZBankWeb","sanity.XYZBankWeb","test04_verifyNewCustomer","Test04 - Add New Customer",""

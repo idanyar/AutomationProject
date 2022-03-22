@@ -1,0 +1,128 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "sanity.XYZBankWeb",
+    "children" : [ {
+      "name" : "test01_verifyAccount",
+      "uid" : "2f76360fd67658bc",
+      "parentUid" : "ddd28fdef8e47f1885c82500b318d2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265547608,
+        "stop" : 1647265549458,
+        "duration" : 1850
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "web" ]
+    }, {
+      "name" : "test02_verifyDeposit",
+      "uid" : "884ae5bb4b0cf237",
+      "parentUid" : "ddd28fdef8e47f1885c82500b318d2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265549829,
+        "stop" : 1647265551589,
+        "duration" : 1760
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "web" ]
+    }, {
+      "name" : "test03_verifyFailMessage",
+      "uid" : "5251d8a6fc5eada6",
+      "parentUid" : "ddd28fdef8e47f1885c82500b318d2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265551941,
+        "stop" : 1647265554366,
+        "duration" : 2425
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "web" ]
+    }, {
+      "name" : "test04_verifyNewCustomer",
+      "uid" : "f6443d500410382c",
+      "parentUid" : "ddd28fdef8e47f1885c82500b318d2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265554677,
+        "stop" : 1647265556972,
+        "duration" : 2295
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "web" ]
+    }, {
+      "name" : "test05_searchCustomer",
+      "uid" : "d27c73febede2ecb",
+      "parentUid" : "ddd28fdef8e47f1885c82500b318d2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265557028,
+        "stop" : 1647265565915,
+        "duration" : 8887
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "web", "Idan", "not-exist" ]
+    }, {
+      "name" : "test05_searchCustomer",
+      "uid" : "49251cc54aee3166",
+      "parentUid" : "ddd28fdef8e47f1885c82500b318d2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265565965,
+        "stop" : 1647265574853,
+        "duration" : 8888
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "web", "Omer", "exist" ]
+    }, {
+      "name" : "test05_searchCustomer",
+      "uid" : "225f546497cd1c97",
+      "parentUid" : "ddd28fdef8e47f1885c82500b318d2df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265574897,
+        "stop" : 1647265581749,
+        "duration" : 6852
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "web", "Ron", "exist" ]
+    } ],
+    "uid" : "sanity.XYZBankWeb"
+  } ]
+}

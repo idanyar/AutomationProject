@@ -1,0 +1,255 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-PSQD7J3D",
+    "children" : [ {
+      "name" : "3384@LAPTOP-PSQD7J3D.main(1)",
+      "children" : [ {
+        "name" : "Test05 - Search Customer",
+        "uid" : "698354cd3b63651e",
+        "parentUid" : "6e1d713f6bc93f2fa0965a879b4d5ed8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265027299,
+          "stop" : 1647265036157,
+          "duration" : 8858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web", "Omer", "exist" ]
+      }, {
+        "name" : "Test04 - Add New Customer",
+        "uid" : "7b3d26c28509297b",
+        "parentUid" : "6e1d713f6bc93f2fa0965a879b4d5ed8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265016014,
+          "stop" : 1647265018239,
+          "duration" : 2225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01 - Verify Customer Accounts",
+        "uid" : "eb9af89b719832e3",
+        "parentUid" : "6e1d713f6bc93f2fa0965a879b4d5ed8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265007940,
+          "stop" : 1647265010012,
+          "duration" : 2072
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test05 - Search Customer",
+        "uid" : "4c7134e8c4cd8252",
+        "parentUid" : "6e1d713f6bc93f2fa0965a879b4d5ed8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265018304,
+          "stop" : 1647265027260,
+          "duration" : 8956
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web", "Idan", "not-exist" ]
+      }, {
+        "name" : "test03 - Verify Withdrawal Transaction Failed",
+        "uid" : "704991b5c2e5106a",
+        "parentUid" : "6e1d713f6bc93f2fa0965a879b4d5ed8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265012960,
+          "stop" : 1647265015651,
+          "duration" : 2691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02 - Verify Deposit Action",
+        "uid" : "1f5cf107080830a0",
+        "parentUid" : "6e1d713f6bc93f2fa0965a879b4d5ed8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265010980,
+          "stop" : 1647265012546,
+          "duration" : 1566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test05 - Search Customer",
+        "uid" : "aa45863ef4e5475d",
+        "parentUid" : "6e1d713f6bc93f2fa0965a879b4d5ed8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265036200,
+          "stop" : 1647265043079,
+          "duration" : 6879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web", "Ron", "exist" ]
+      } ],
+      "uid" : "6e1d713f6bc93f2fa0965a879b4d5ed8"
+    }, {
+      "name" : "10176@LAPTOP-PSQD7J3D.main(1)",
+      "children" : [ {
+        "name" : "Test05 - Search Customer",
+        "uid" : "225f546497cd1c97",
+        "parentUid" : "e8287b918a5f667790ece49d6b43f0e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265574897,
+          "stop" : 1647265581749,
+          "duration" : 6852
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web", "Ron", "exist" ]
+      }, {
+        "name" : "Test05 - Search Customer",
+        "uid" : "d27c73febede2ecb",
+        "parentUid" : "e8287b918a5f667790ece49d6b43f0e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265557028,
+          "stop" : 1647265565915,
+          "duration" : 8887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web", "Idan", "not-exist" ]
+      }, {
+        "name" : "Test04 - Add New Customer",
+        "uid" : "f6443d500410382c",
+        "parentUid" : "e8287b918a5f667790ece49d6b43f0e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265554677,
+          "stop" : 1647265556972,
+          "duration" : 2295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01 - Verify Customer Accounts",
+        "uid" : "2f76360fd67658bc",
+        "parentUid" : "e8287b918a5f667790ece49d6b43f0e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265547608,
+          "stop" : 1647265549458,
+          "duration" : 1850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test03 - Verify Withdrawal Transaction Failed",
+        "uid" : "5251d8a6fc5eada6",
+        "parentUid" : "e8287b918a5f667790ece49d6b43f0e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265551941,
+          "stop" : 1647265554366,
+          "duration" : 2425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02 - Verify Deposit Action",
+        "uid" : "884ae5bb4b0cf237",
+        "parentUid" : "e8287b918a5f667790ece49d6b43f0e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265549829,
+          "stop" : 1647265551589,
+          "duration" : 1760
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test05 - Search Customer",
+        "uid" : "49251cc54aee3166",
+        "parentUid" : "e8287b918a5f667790ece49d6b43f0e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265565965,
+          "stop" : 1647265574853,
+          "duration" : 8888
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "web", "Omer", "exist" ]
+      } ],
+      "uid" : "e8287b918a5f667790ece49d6b43f0e8"
+    } ],
+    "uid" : "8d43953a0809f408e2f60fc81e239e65"
+  } ]
+}

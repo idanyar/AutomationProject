@@ -1,0 +1,592 @@
+{
+  "12617c85cae4527e5871686f59f749f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae8dde97255cfce0",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/ae8dde97255cfce0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162893897,
+        "stop" : 1647162895927,
+        "duration" : 2030
+      }
+    } ]
+  },
+  "4fbde902a990f101f6a4574e2a2765b7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "a7ac7d1fc964a86c",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/a7ac7d1fc964a86c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162595961,
+        "stop" : 1647162599228,
+        "duration" : 3267
+      }
+    }, {
+      "uid" : "3a21185792de99be",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure/#testresult/3a21185792de99be",
+      "status" : "failed",
+      "statusDetails" : "expected [6] but found [7]",
+      "time" : {
+        "start" : 1647160931637,
+        "stop" : 1647160934568,
+        "duration" : 2931
+      }
+    }, {
+      "uid" : "a92018efff477b67",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/8/allure/#testresult/a92018efff477b67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647160088081,
+        "stop" : 1647160090721,
+        "duration" : 2640
+      }
+    } ]
+  },
+  "67885ffceeec7eb1bc4a158ba52b1411" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "545c2a09b783469f",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/545c2a09b783469f",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\idany\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1647160830845,
+        "stop" : 1647160830848,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "8e2bef6b838cdce8",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure/#testresult/8e2bef6b838cdce8",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\idany\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1647160830845,
+        "stop" : 1647160830848,
+        "duration" : 3
+      }
+    } ]
+  },
+  "133f478873e49e67c75c51d27df44526" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "49251cc54aee3166",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure/#testresult/49251cc54aee3166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265565965,
+        "stop" : 1647265574853,
+        "duration" : 8888
+      }
+    }, {
+      "uid" : "ab8a1f2fa9d87b67",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/ab8a1f2fa9d87b67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265027299,
+        "stop" : 1647265036157,
+        "duration" : 8858
+      }
+    } ]
+  },
+  "8983ecc161bc4ca5dd7144042faa97cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "225f546497cd1c97",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure/#testresult/225f546497cd1c97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265574897,
+        "stop" : 1647265581749,
+        "duration" : 6852
+      }
+    }, {
+      "uid" : "92caf6b2d0fdc308",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/92caf6b2d0fdc308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265036200,
+        "stop" : 1647265043079,
+        "duration" : 6879
+      }
+    } ]
+  },
+  "dd476c89d2d287891b3609a67d5826d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29e0012f426ab431",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/29e0012f426ab431",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162773394,
+        "stop" : 1647162773792,
+        "duration" : 398
+      }
+    } ]
+  },
+  "ae649a2a682087f5c0d965d26e83d8c5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "5a3edc8647ff758f",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/5a3edc8647ff758f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\idany\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1647160830954,
+        "stop" : 1647160830958,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "2d85b4a17b02470",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure/#testresult/2d85b4a17b02470",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\idany\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1647160830954,
+        "stop" : 1647160830958,
+        "duration" : 4
+      }
+    } ]
+  },
+  "31b928181bf4c3218579898d66f38268" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "884ae5bb4b0cf237",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure/#testresult/884ae5bb4b0cf237",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265549829,
+        "stop" : 1647265551589,
+        "duration" : 1760
+      }
+    }, {
+      "uid" : "8144677bdded2389",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/8144677bdded2389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265010980,
+        "stop" : 1647265012546,
+        "duration" : 1566
+      }
+    } ]
+  },
+  "f1a7e216445b801c2137bcd56e54f10d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "3ac5520d969b3f66",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/3ac5520d969b3f66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162616858,
+        "stop" : 1647162623443,
+        "duration" : 6585
+      }
+    }, {
+      "uid" : "34b1b4038e96758a",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure/#testresult/34b1b4038e96758a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647160952052,
+        "stop" : 1647160958583,
+        "duration" : 6531
+      }
+    }, {
+      "uid" : "12fb0d8c02d9de4e",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/8/allure/#testresult/12fb0d8c02d9de4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647160108280,
+        "stop" : 1647160114794,
+        "duration" : 6514
+      }
+    } ]
+  },
+  "e8df9997dd35cd2d225ebd321d8b9f9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2f76360fd67658bc",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure/#testresult/2f76360fd67658bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265547608,
+        "stop" : 1647265549458,
+        "duration" : 1850
+      }
+    }, {
+      "uid" : "ed577cb1d0b8126a",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/ed577cb1d0b8126a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265007940,
+        "stop" : 1647265010012,
+        "duration" : 2072
+      }
+    } ]
+  },
+  "ef24eb343702c7804696c8e0968f6eb2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "895b00cf442d102b",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/895b00cf442d102b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162772327,
+        "stop" : 1647162772918,
+        "duration" : 591
+      }
+    } ]
+  },
+  "212e32c6f160d476fb524f2454c65d6a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3dbf64b40c414a0",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/3dbf64b40c414a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162896379,
+        "stop" : 1647162898050,
+        "duration" : 1671
+      }
+    } ]
+  },
+  "359e5511d746fd912ed76fbcb6a48ce6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "5251d8a6fc5eada6",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure/#testresult/5251d8a6fc5eada6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265551941,
+        "stop" : 1647265554366,
+        "duration" : 2425
+      }
+    }, {
+      "uid" : "8b542570239713f0",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/8b542570239713f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265012960,
+        "stop" : 1647265015651,
+        "duration" : 2691
+      }
+    } ]
+  },
+  "396fcb80538653d6aa2acadb3abfdf35" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44514b368805cd1",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/44514b368805cd1",
+      "status" : "failed",
+      "statusDetails" : "expected [203] but found [200]",
+      "time" : {
+        "start" : 1647162772934,
+        "stop" : 1647162773364,
+        "duration" : 430
+      }
+    } ]
+  },
+  "5a50b43c163645c5f6b5e97b9d6c55d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d27c73febede2ecb",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure/#testresult/d27c73febede2ecb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265557028,
+        "stop" : 1647265565915,
+        "duration" : 8887
+      }
+    }, {
+      "uid" : "172d30d23c524a5e",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/172d30d23c524a5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265018304,
+        "stop" : 1647265027260,
+        "duration" : 8956
+      }
+    } ]
+  },
+  "baaabd06b6cd00ebe26b1fc93885497c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6c601cefdb41f3a",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/c6c601cefdb41f3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162768516,
+        "stop" : 1647162772293,
+        "duration" : 3777
+      }
+    } ]
+  },
+  "a428eb45c6863ff8b49221245562aa5f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "86a67ff695d280d1",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/86a67ff695d280d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162599352,
+        "stop" : 1647162608146,
+        "duration" : 8794
+      }
+    }, {
+      "uid" : "fe6ebaa5066c7f57",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure/#testresult/fe6ebaa5066c7f57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647160934650,
+        "stop" : 1647160943342,
+        "duration" : 8692
+      }
+    }, {
+      "uid" : "8bf7368615e24b82",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/8/allure/#testresult/8bf7368615e24b82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647160090823,
+        "stop" : 1647160099535,
+        "duration" : 8712
+      }
+    } ]
+  },
+  "68561bf5f74888fbc281002db05990f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b24497742cc98c94",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/b24497742cc98c94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162898407,
+        "stop" : 1647162901221,
+        "duration" : 2814
+      }
+    } ]
+  },
+  "50b448b7b17bb8462d8b1c2f9c1875af" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "90fdf66d5aa2d6",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/90fdf66d5aa2d6",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\idany\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1647160831071,
+        "stop" : 1647160831072,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c39a519db256207",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure/#testresult/c39a519db256207",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\idany\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1647160831071,
+        "stop" : 1647160831072,
+        "duration" : 1
+      }
+    } ]
+  },
+  "2f44b1561defa4f041d1fdd61e544053" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f6443d500410382c",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure/#testresult/f6443d500410382c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265554677,
+        "stop" : 1647265556972,
+        "duration" : 2295
+      }
+    }, {
+      "uid" : "45dbf2b978e7b6fc",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/45dbf2b978e7b6fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265016014,
+        "stop" : 1647265018239,
+        "duration" : 2225
+      }
+    } ]
+  },
+  "f118fe6f72a502d3ca55f9d5c2b4be9a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "829323bfbbdd209f",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure/#testresult/829323bfbbdd209f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647162608179,
+        "stop" : 1647162616823,
+        "duration" : 8644
+      }
+    }, {
+      "uid" : "35bf199197427a8b",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure/#testresult/35bf199197427a8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647160943384,
+        "stop" : 1647160952010,
+        "duration" : 8626
+      }
+    }, {
+      "uid" : "72b82cd658a3086a",
+      "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/8/allure/#testresult/72b82cd658a3086a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647160099588,
+        "stop" : 1647160108239,
+        "duration" : 8651
+      }
+    } ]
+  }
+}

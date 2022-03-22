@@ -1,0 +1,52 @@
+[ {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/6/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/4/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1,
+    "Test defects" : 1
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1,
+    "Test defects" : 1
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/11/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/10/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/9/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web/8/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

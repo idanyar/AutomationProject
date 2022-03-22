@@ -1,0 +1,291 @@
+{
+  "uid" : "d27c73febede2ecb",
+  "name" : "Test05 - Search Customer",
+  "fullName" : "sanity.XYZBankWeb.test05_searchCustomer",
+  "historyId" : "5a50b43c163645c5f6b5e97b9d6c55d3",
+  "time" : {
+    "start" : 1647265557028,
+    "stop" : 1647265565915,
+    "duration" : 8887
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1647265539959,
+      "stop" : 1647265547247,
+      "duration" : 7288
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1647265557013,
+      "stop" : 1647265557024,
+      "duration" : 11
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click on Element",
+      "time" : {
+        "start" : 1647265557041,
+        "stop" : 1647265557150,
+        "duration" : 109
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[ChromeDriver: chrome on XP (21da367bc8e1edefeae03dcb36bd54d7)] -> xpath: /html/body/div/div/div[1]/button[1]]"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click on Element",
+      "time" : {
+        "start" : 1647265557165,
+        "stop" : 1647265557285,
+        "duration" : 120
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[ChromeDriver: chrome on XP (21da367bc8e1edefeae03dcb36bd54d7)] -> xpath: /html/body/div/div/div[2]/div/div[1]/div[2]/button]"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click on Element",
+      "time" : {
+        "start" : 1647265557305,
+        "stop" : 1647265557434,
+        "duration" : 129
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[ChromeDriver: chrome on XP (21da367bc8e1edefeae03dcb36bd54d7)] -> xpath: /html/body/div/div/div[2]/div/div[1]/button[3]]"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Business Flow Manager: Search and Verify User",
+      "time" : {
+        "start" : 1647265557434,
+        "stop" : 1647265565836,
+        "duration" : 8402
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Update Text Element as Human",
+        "time" : {
+          "start" : 1647265557449,
+          "stop" : 1647265565803,
+          "duration" : 8354
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on XP (21da367bc8e1edefeae03dcb36bd54d7)] -> css selector: input[placeholder='Search Customer']]"
+        }, {
+          "name" : "text",
+          "value" : "Idan"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "Verify Element Size",
+        "time" : {
+          "start" : 1647265565817,
+          "stop" : 1647265565836,
+          "duration" : 19
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elements",
+          "value" : "[[[ChromeDriver: chrome on XP (21da367bc8e1edefeae03dcb36bd54d7)] -> tag name: tr]]"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "Idan"
+      }, {
+        "name" : "shouldExist",
+        "value" : "not-exist"
+      } ],
+      "stepsCount" : 2,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1647265565917,
+      "stop" : 1647265565947,
+      "duration" : 30
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1647265581795,
+      "stop" : 1647265582824,
+      "duration" : 1029
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "sanity.XYZBankWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "sanity.XYZBankWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test05_searchCustomer"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Web Suite"
+  }, {
+    "name" : "suite",
+    "value" : "WebCustomer Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "sanity.XYZBankWeb"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-PSQD7J3D"
+  }, {
+    "name" : "thread",
+    "value" : "10176@LAPTOP-PSQD7J3D.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  }, {
+    "name" : "arg0",
+    "value" : "Idan"
+  }, {
+    "name" : "arg1",
+    "value" : "not-exist"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4c7134e8c4cd8252",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647265018304,
+        "stop" : 1647265027260,
+        "duration" : 8956
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "172d30d23c524a5e",
+        "reportUrl" : "http://localhost:8080/job/Sanity%20Tests%20Web%20(XYZBank-Customer)/5/allure/#testresult/172d30d23c524a5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647265018304,
+          "stop" : 1647265027260,
+          "duration" : 8956
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d27c73febede2ecb.json",
+  "parameterValues" : [ "web", "Idan", "not-exist" ]
+}

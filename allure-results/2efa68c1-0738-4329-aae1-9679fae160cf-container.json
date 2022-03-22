@@ -1,0 +1,1 @@
+{"uuid":"2efa68c1-0738-4329-aae1-9679fae160cf","name":"sanity.SwagLabsMobile","children":["fcad46f0-115f-460c-9dcb-d37ecde1e1de"],"befores":[{"name":"startSession","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1647940469249,"stop":1647940476287}],"afters":[],"links":[],"start":1647940469205,"stop":1647940476715}

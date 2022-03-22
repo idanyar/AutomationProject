@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+
+    <!-- Timeout-->
+    <Timeout>5</Timeout>
+
+     General
+        <PlatformName>desktop</PlatformName>
+
+    <!-- Authorization-->
+    <UserName>admin@aa.com</UserName>
+    <Password>admin</Password>
+
+    <!-- Web-->
+    <BrowserName>chrome</BrowserName>
+    <url>https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login</url>
+    <ImageRepo>C:/Automation/AutomationProject/ImageRepository/</ImageRepo>
+
+    <!-- Data Driven Testing -->
+    <DDTFile>./DDTFiles/customers.csv</DDTFile>
+
+    <!--Mobile-->
+    <UDID>963e7c33</UDID>
+    <AppPackage>com.swaglabsmobileapp</AppPackage>
+    <AppActivity>.SplashActivity</AppActivity>
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+
+    <!--API-->
+    <urlAPI>https://reqres.in/</urlAPI>
+
+    <!--Desktop-->
+    <CalculatorApp>microsoft.windowscalculator_8wekyb3d8bbwe!App</CalculatorApp>
+    <AppiumServerDesktop>http://127.0.0.1:4723</AppiumServerDesktop>
+
+</Environment>

@@ -1,0 +1,71 @@
+[ {
+  "uid" : "2f76360fd67658bc",
+  "name" : "Test01 - Verify Customer Accounts",
+  "time" : {
+    "start" : 1647265547608,
+    "stop" : 1647265549458,
+    "duration" : 1850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "225f546497cd1c97",
+  "name" : "Test05 - Search Customer",
+  "time" : {
+    "start" : 1647265574897,
+    "stop" : 1647265581749,
+    "duration" : 6852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "884ae5bb4b0cf237",
+  "name" : "Test02 - Verify Deposit Action",
+  "time" : {
+    "start" : 1647265549829,
+    "stop" : 1647265551589,
+    "duration" : 1760
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49251cc54aee3166",
+  "name" : "Test05 - Search Customer",
+  "time" : {
+    "start" : 1647265565965,
+    "stop" : 1647265574853,
+    "duration" : 8888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5251d8a6fc5eada6",
+  "name" : "test03 - Verify Withdrawal Transaction Failed",
+  "time" : {
+    "start" : 1647265551941,
+    "stop" : 1647265554366,
+    "duration" : 2425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d27c73febede2ecb",
+  "name" : "Test05 - Search Customer",
+  "time" : {
+    "start" : 1647265557028,
+    "stop" : 1647265565915,
+    "duration" : 8887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6443d500410382c",
+  "name" : "Test04 - Add New Customer",
+  "time" : {
+    "start" : 1647265554677,
+    "stop" : 1647265556972,
+    "duration" : 2295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
